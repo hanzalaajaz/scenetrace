@@ -1,0 +1,17 @@
+.venv/
+data/
+__pycache__/
+.pytest_cache/
+*.pyc
+models/*.onnx
+models/*.part
+diagnostics/
+.tools/
+.streamlit/
+*.log
+.env
+.env.*
+models/*-pointer.txt
+models/*-reference.*
+models/demo-source.py
+models/README-source.md
